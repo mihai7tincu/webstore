@@ -1,8 +1,0 @@
-cd D:\github\webstore
-VS: Angular Language Service
-node -v
-npm install -g @angular/cli
-ng generate component home
-ng serve
-http://localhost:4200
-
