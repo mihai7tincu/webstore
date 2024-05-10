@@ -2,7 +2,19 @@
   background-color: aliceblue;
   display: flex;
 
+  &-title {
+    font-size: 33px;
+    line-height: 56px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  &-logo {
+  }
+
   &-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 5px;
     padding-right: 5px;
   }
