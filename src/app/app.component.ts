@@ -18,8 +18,4 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 })
 export class AppComponent {
   title = 'webstore';
-
-  open(demoModal: any) {
-
-  }
 }
