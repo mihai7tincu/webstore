@@ -26,10 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-cd D:\github\webstore
+cd D:\git\webstore
 VS: Angular Language Service
 node -v
 npm install -g @angular/cli
 ng generate component home
 ng serve
 http://localhost:4200
+npm install bootstrap bootstrap-icons
+npm install @ng-bootstrap/ng-bootstrap@next
